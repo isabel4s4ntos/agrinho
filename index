@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title> PSICOLOGIA</title>
+<link rel="stylesheet" href="stlyle.css">
+</head>
+<body>
+<header class="cabecalho">
+<div class="div-cabecalho-logo" >
+<img class="cabecalho-imagem" src="bordado_do_simbolo_da_profissao_psicologia_266_1_20231023214246.webp" alt="logo">
+<h1 class="cabecalho-titulo"> CUIDADO COM A SAÚDE MENTAL</h1>
+</div>
+<ul class="cabecalho-lista">
+<li class="cabecalho-lista-item"></li> Focar em si</li>
+<li class="cabecalho-lista-item">Cuidar de traumas passados</li>
+</ul>
+</header>
+<section class="escola">
+<div class="escola-div-conteudo">
+<h2 class="escola-titulo"> PROFISSÃO</h2>
+<p class="escola-texto-um">
+    O profissional de Psicologia cuida da mente das pessoas. Assim como os médicos são fundamentais para a boa saúde do corpo, o psicólogo dedica seu trabalho à 
+    saúde mental.Ele estuda, analisa e trata as questões internas, que refletem no comportamento do indivíduo, com a aplicação de métodos científicos.
+</p>
+<p class="escola-texto-dois">
+ Trata-se de escrever livremente sobre seus sentimentos e pensamentos. É muito importante não se deixar limitar por regras ou estruturas, 
+as palavras devem simplesmente fluir. Além disso, uma dica bem valiosa é focar em contar como você está se sentindo e não necessariamente as situações em si.    
+</p>
+</div>
+<img class="escola-imagem" src="psicologia-e-fisiologia.webp" atl="SAUDE DE MENTAL">
+</section>
+</body>
+</html>
